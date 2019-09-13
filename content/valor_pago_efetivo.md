@@ -14,7 +14,7 @@ No Estado de Minas Gerais o estágio de pagamento divide-se em etapas, conforme 
 
 [Etapas do pagamento no Poder Executivo do Estado de Minas Gerais](https://drive.google.com/open?id=1VqvQSzn65WJg4pNVjfG2FB-yiEoscVLZ)
 
-*Nota:
+**Nota:**
 (1)	Ao registrar a OP no SIAFI (Sistema Integrado de Administração Financeira) o operador financeiro também programa a data para o pagamento ocorrer.
 (2)	A OP fica pendente para transmissão ao banco até que o Ordenador de Despesa autorize o seu pagamento;
 (3)	Após a assinatura do ordenador de despesa a OP é transmitida ao banco obedecendo sempre o cronograma de pagamento realizado na fase de registro. A transmissão da OP a rede bancária está condicionada a assinatura do Ordenador de Despesa, podendo ser reprogramada a qualquer momento sem aviso prévio;
@@ -28,5 +28,5 @@ Essa atualização na forma de divulgação dos dados atente plenamente a Lei de
 
 Assim, a coluna Valor Pago bem como o formulário de detalhamento do pagamento demonstra o pagamento efetivo de uma determinada OP, ou seja, data em que a compensação bancária ocorreu.
 
-*Nota:*
+**Nota:**
 Novo conceito Valor Pago: Valor pago pelo Estado de Minas Gerais até a data de atualização da base de dados, estando o efetivo pagamento sujeito a compensação bancária.
