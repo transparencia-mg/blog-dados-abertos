@@ -7,6 +7,7 @@
 * [blog InovaGov](http://inova.gov.br/publicacoes/)
 * [Blog da Saúde MG](http://blog.saude.mg.gov.br/sobre-o-blog/)
 * [Blog da Saúde - Ministério da Saúde](http://www.blog.saude.gov.br/)
+* [Blog da Educação MG - Atualmente fora do ar](http://blog.educacao.mg.gov.br/)
 
 ## Blogs de Governo - Internacionais
 
