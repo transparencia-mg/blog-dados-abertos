@@ -2,7 +2,7 @@
 
 ## Objetivos
 
-A proposta do Blog de Dados Abertos surgiu no âmbito da Diretoria Central de Transparência Ativa, no intuito de promover a geração e o compartilhamento de conhecimento, o engajamento civil e a formação de uma comunidade em torno do tema. O conhecimento gerado será útil tanto para condução de avaliações de qualidade dos dados publicados via [modelos de maturidade de publicação de dados abertos](https://certificates.theodi.org/en/about/badgelevels) - ação prevista no planejamento estratégico da CGE -, quanto para planejamento da evolução das funcionalidades do Portal de Dados Abertos do Governo Estadual.
+A proposta do Blog de Dados Abertos surgiu no âmbito da Diretoria Central de Transparência Ativa (DCTA), no intuito de promover a geração e o compartilhamento de conhecimento, o engajamento civil e a formação de uma comunidade em torno do tema. O conhecimento gerado será útil tanto para condução de avaliações de qualidade dos dados publicados via [modelos de maturidade de publicação de dados abertos](https://certificates.theodi.org/en/about/badgelevels) - ação prevista no planejamento estratégico da Controladoria- Geral do Estado (CGE) -, quanto para planejamento da evolução das funcionalidades do Portal de Dados Abertos do Governo Estadual.
 
 ## Escopo
 
@@ -20,16 +20,16 @@ Estima-se também, a médio e longo prazo, reservar espaços para publicação e
 
 ## Autoria, elaboração e revisão
 
-A autoria dos posts será individualizada e, num primeiro momento (+/- 4 meses), restrita aos servidores da DTA. Com ganho de interesse no blog e formação de uma comunidade cativa, espera-se poder receber sugestões de posts:
+A autoria dos posts será individualizada e, num primeiro momento (+/- 4 meses), restrita aos servidores da DCTA. Com ganho de interesse no blog e formação de uma comunidade cativa, espera-se poder receber sugestões de posts:
 
 * no segundo quadrimestre de implementação: dos auditores da CGE e dos servidores da PRODEMGE;
 * no terceiro quadrimestre de implementação: servidores dos órgãos e entidades da administração estadual.
 
-Os temas das postagens são definidos previamente, nas reuniões de pauta da SCT, sendo que os posts elaborados seriam revisados pela ASCOM, preferencialmente no GitHub, e *aprovados* pela SUTI. Os servidores da DCTA farão a revisão de cada post elaborado, mediante indicação da Diretoria, utilizando [repositório específico da Transparência MG no GitHub](https://github.com/transparencia-mg).
+Os temas das postagens serão definidos previamente nas reuniões da Superintendência Central de Transparência (SCT), sendo que os posts elaborados seriam revisados pela Assessoria de Comunicação da CGE (ASSCOM/CGE), preferencialmente no GitHub, e *aprovados* pela Subcontroladiria de Transparência e Integridade (SUTI). Os servidores da DCTA farão a revisão de cada post elaborado, mediante indicação da Diretoria, utilizando [repositório específico da Transparência MG no GitHub](https://github.com/transparencia-mg).
 
-O email institucional <transparencia@cge.mg.gov.br> será o mecanismo de contato dos leitores para os autores, em formulário a ser padronizado e disponibilizado na URL de cada post.
+O email institucional <transparencia@cge.mg.gov.br> será o mecanismo de contato dos leitores para os autores, em formulário a ser padronizado e disponibilizado na *URL* de cada post.
 
-A política de moderação dos comentários deverá estar exposta na URL de cada post, preferencialmente linkada ao título da caixa de comentário. A moderação dos comentários deverá realizar a exclusão de manifestações de cunho ofensivo (palavrões, ataques pessoais), preconceituoso e fora do contexto do conteúdo postado.
+A política de moderação dos comentários deverá estar exposta na *URL* de cada post, preferencialmente linkada ao título da caixa de comentário. A moderação dos comentários deverá realizar a exclusão de manifestações de cunho ofensivo (palavrões, ataques pessoais), preconceituoso e fora do contexto do conteúdo postado.
 
 ## Linguagem
 
