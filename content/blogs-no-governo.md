@@ -2,18 +2,18 @@
 
 A divulgação de informações por iniciativa do governo ganhou relevância institucional no Brasil a partir da edição da [Lei de Responsabilidade Fiscal](http://www.planalto.gov.br/ccivil_03/leis/lcp/lcp101.htm) (LC 101/2000). Esta Lei pode ser considerada o marco inicial de um processo de mudanças legais e administrativas que propiciam abertura e transparência. No bojo desse processo, outra referência estabelecida foi a [Lei de Acesso à Informação](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm) (Lei 12527/2011). Ela trata das demandas da sociedade por informação e determina duas vertentes de transparência: a passiva, que diz respeito às respostas devidas pela Administração Pública às ditas demandas; e a ativa, que corresponde às iniciativas de prover informações, independentemente de provocação. Um dos produtos mais representativos desta última vertente são os Portais de Transparência.
 
-Em Minas Gerais, [o Portal da Transparência](http://www.transparencia.mg.gov.br/images/stories/decreto-45969.pdf) existe desde 2012. O seu formato atual está no ar desde 2015, pelo qual é possível realizar consultas sobre 17 assuntos ou temas de pesquisa, em diversos graus de desagregação e com distintos filtros de pesquisa. Uma seção específica, [o portal de Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos), disponibiliza arquivos em formato aberto e estruturado. No planejamento da CGE, está previsto que todos os dados disponibilizados no Portal da Transparência sejam atualizados, com a mesma frequência, no Portal de Dados Abertos.
+Em Minas Gerais, [o Portal da Transparência](http://www.transparencia.mg.gov.br/images/stories/decreto-45969.pdf) existe desde 2009. O seu formato atual está no ar desde 2015, pelo qual é possível realizar consultas sobre 17 assuntos ou temas de pesquisa, em diversos graus de desagregação e com distintos filtros de pesquisa. Uma seção específica, [o portal de Dados Abertos](http://www.transparencia.mg.gov.br/dados-abertos), disponibiliza arquivos em formato aberto e estruturado. No planejamento da CGE, está previsto que todos os dados disponibilizados no Portal da Transparência sejam atualizados, com a mesma frequência, no Portal de Dados Abertos.
 
 Essa é uma das ações necessárias para a construção de um governo digital, de forma conjugada a outras ações de articulação de processos e a promoção da capacidade de vocalização de demandas, conforme apontado no quadro abaixo.
 
-  **Governo eletrônico**               **Governo digital**
-  ------------------------------------ ------------------------------------------------------------------------------------------------------------------
-  Cidadão se relaciona com o órgão     [Cidadão se relaciona com o Estado](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art9)
-  Sistemas próprios dos órgãos         Processos integrados
-  Automação dos processos existentes   Redesenho dos processos
-  Foco do órgão público                Participação do cidadão
-  Dados sigilosos                      [Dados abertos](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art3)
-  Dirigido por regras burocráticas     [Dirigido por informações](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art8)
+  |**Governo eletrônico** | **Governo digital**
+  |-----------------------:|-----------------:|
+  |Cidadão se relaciona com o órgão|[Cidadão se relaciona com o Estado](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art9)|
+  |Sistemas próprios dos órgãos| Processos integrados
+  |Automação dos processos existentes   |Redesenho dos processos
+  |Foco do órgão público                |Participação do cidadão
+  |Dados sigilosos                      |[Dados abertos](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art3)
+  |Dirigido por regras burocráticas     |[Dirigido por informações](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm#art8)
 
 Como uma referência para guiar essa transição, tem-se uma iniciativa internacional, [a Open Government Partnership](https://www.opengovpartnership.org/) (OGP), desde 2011, da qual o Brasil é fundador e signatário. Dentre suas diretrizes, destacam-se o incentivo e difusão de práticas de governo voltadas à transparência e participação social, segundo as quais a política federal de Dados Abertos foi instituída por [Decreto, em 2016](http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/decreto/d8777.htm). Atualmente, está em vigência o [4º Plano Brasileiro para Governo Aberto](http://governoaberto.cgu.gov.br/no-brasil/copy_of_planos-de-acao/4o-plano-de-acao-brasileiro), que objetiva fortalecer os princípios de transparência, participação cidadã, inovação, prestação de contas e responsabilização (*accountability*) que norteiam as ações da Parceria para Governo Aberto da OGP.
 
