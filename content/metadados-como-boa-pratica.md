@@ -18,14 +18,10 @@ Os problemas mais comuns das bases de dados são: dificuldade de trabalhar dados
 
 Exemplos
 
-PSP http://dados.prefeitura.sp.gov.br/pt_PT/dataset/servidores-ativos-da-prefeitura/resource/fb947bf3-ccee-41b0-91b3-4c609c9f8715
+Os portais dos municípios de [Belo Horizonte](https://dados.pbh.gov.br/), [São Paulo](http://dados.prefeitura.sp.gov.br/) possuem datasets que contêm a fonte, a licença e as datas de criação e da última atualização. Tais informações variam entre os datasets, sendo que o ideal para comparabilidade e usabilidade é que elas estivessem disponíveis para todos. Exemplos de metadados de datasets com mais campos podem ser encontrados no [Portal de Governo Aberto do Estado de São Paulo](http://catalogo.governoaberto.sp.gov.br/dataset/alunos-estrangeiros-por-nacionalidade) e no [Portal Brasileiro de Dados Abertos (que compreende instituições do Poder Executivo da União e do Distrito Federal)](http://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira). Este último dataset traz um Modelo de Esquema de Dados, no qual se pode visualizar como as tabelas se relacionam entre si.
+O [portal de Dados Abertos de Minas Gerais apresenta dicionário de dados em formato txt](http://www.transparencia.dadosabertos.mg.gov.br/dataset/doacoes-ao-governo), que denominam os valores dos campos de cada arquivo. Tais descritores permitem pessoas e máquinas compreenderem a natureza e as possibilidades de interconexões das informações publicadas. 
 
-ALMG [Sobre o portal de dados abertos] (http://dadosabertos.almg.gov.br/ws/ajuda/sobre)
 
-GOV MG [Metadados consulta remuneração](http://www.transparencia.dadosabertos.mg.gov.br/dataset/1e92431e-c154-41fd-8232-a2ae623c53da/resource/3f0f9f3d-ba8d-4fbc-bb29-9a3566f1e5f1/download/metadados.txt) e [Dicionário de Dados do Portal da Transparência](http://www.transparencia.dadosabertos.mg.gov.br/dataset/f9e8e228-17c9-4cbb-aaeb-df05deed4333/resource/e5ff8911-d23c-4e48-855d-d5455807b55c/download/dicionariodedadosportaldatransparencia.xml)
-[Portal Fácil](https://dadosabertos.portalfacil.com.br/306/servidores)
-
-Gancho para as escalas de maturidade (segundo post comparando os níveis de metadados fornecidos e atrelar com benefícios de cada um)
 
 # Referências
 [Data on the Web Best Practices - W3C](https://www.w3.org/TR/dwbp/)
