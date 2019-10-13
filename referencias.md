@@ -4,6 +4,7 @@
 
 * [Comunicação Estratégica e Análise de Dados do Tesouro Nacional - GT-CEAD](https://medium.com/tchiluanda)
 * [Ceará Transparente](http://ceara.caiena.net/posts)
+* [Blog Dataviva](http://dataviva.info/pt/blog/)
 * [blog InovaGov](http://inova.gov.br/publicacoes/)
 * [Blog da Saúde MG](http://blog.saude.mg.gov.br/sobre-o-blog/)
 * [Blog da Saúde - Ministério da Saúde](http://www.blog.saude.gov.br/)
