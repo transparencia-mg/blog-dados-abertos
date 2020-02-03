@@ -9,6 +9,7 @@
 * [Blog da Saúde MG](http://blog.saude.mg.gov.br/sobre-o-blog/)
 * [Blog da Saúde - Ministério da Saúde](http://www.blog.saude.gov.br/)
 * [Blog da Educação MG - Atualmente fora do ar](http://blog.educacao.mg.gov.br/)
+* [Blog do Laboratório de Inovação do Ministério Público do Estado do Rio de Janeiro](https://medium.com/inovação-em-governo-e-no-controle/about)
 
 ## Blogs de Governo - Internacionais
 
